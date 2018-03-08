@@ -1,4 +1,4 @@
-package goluhn
+package main
 
 import (
 	"log"
