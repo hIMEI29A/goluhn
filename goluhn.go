@@ -15,7 +15,7 @@ func errFatal(err error) {
 	}
 }
 
-// Chod simply check is number is even or odd. It returns true if even
+// Chod simply checks if number is even or odd. It returns true if even
 func chod(num int) bool {
 	// odd
 	check := false
