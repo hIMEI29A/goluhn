@@ -1,3 +1,4 @@
+// Copyright (c) 2018 hIMEI <himei@tuta.io>
 package goluhn
 
 /* Package goluhn provides own implementation of Luhn algo checksum checking for
