@@ -1,4 +1,15 @@
-package main
+package goluhn
+
+/* Package goluhn provides own implementation of Luhn algo checksum checking for
+ given number and some related functions. This functions is:
+
+	// LuhnInRange returns a slice of integers with correct Lun checksum in given range
+	LuhnInRange(start, end int) []int {}
+
+	// LuhnByLen returns random int with correct Lun checksum and given length
+	func LuhnByLen(len int) int {}
+
+*/
 
 import (
 	"log"
@@ -74,7 +85,7 @@ func base9(num int) int {
 	return check
 }
 
-// CheckLuhn checks is Lun checksum of given value is correct
+// CheckLuhn returns true if Lun checksum of given value is correct
 func CheckLuhn(num int) bool {
 	var check int
 
