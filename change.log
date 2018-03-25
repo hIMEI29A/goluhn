@@ -1,16 +1,19 @@
 
-UNRELEASED
+0.1.0
 
+  * Merge branch 'dev'
+  * changelog init
   * gitignore added
+  * Merge branch 'dev'
   * Tests added.
-    README.md updated.
-  * cli
+  * README.md updated.
+  * comments corrected
   * all fixed
   * LICENSE added
   * initial commit
 
   - hIMEI <hIMEI@tuta.io>
 
--- hIMEI <hIMEI@tuta.io>; Sun, 25 Mar 2018 15:07:05 -0400
+-- hIMEI <hIMEI@tuta.io>; Sun, 25 Mar 2018 15:10:18 -0400
 
 
