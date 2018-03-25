@@ -13,7 +13,7 @@
 func CheckLuhn(num int) bool {}
 
 // LuhnInRange returns a slice of integers with correct Lun checksum in given range
-LuhnInRange(start, end int) []int {}
+func LuhnInRange(start, end int) []int {}
 
 // LuhnByLen returns random int with correct Lun checksum and given length
 func LuhnByLen(len int) int {}
