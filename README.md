@@ -6,7 +6,7 @@
 
 ## Description
 
-**Goluhn** exports 3 functions. This functions is
+**Goluhn** exports 3 functions. These functions are
 
 ```go
 // CheckLuhn returns true if Lun checksum of given value is correct

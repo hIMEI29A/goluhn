@@ -2,7 +2,7 @@
 package goluhn
 
 /* Package goluhn provides own implementation of Luhn algo checksum checking for
- given number and some related functions. This functions is:
+ given number and some related functions. These functions are:
 
 	// LuhnInRange returns a slice of integers with correct Lun checksum in given range
 	func LuhnInRange(start, end int) []int {}
